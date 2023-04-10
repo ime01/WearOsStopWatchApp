@@ -1,7 +1,7 @@
 # WearOsStopWatchApp
 ANDROID WEAR OS STOP WATCH APP
 
-JET PACK COMPOSE 
+JETPACK COMPOSE 
 
 
 <img width="1440" alt="Screenshot 2023-04-10 at 18 22 33" src="https://user-images.githubusercontent.com/44091450/230956239-62ead48f-8916-49de-8809-e70c471e4975.png">
